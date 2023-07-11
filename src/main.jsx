@@ -88,6 +88,28 @@ const router = createBrowserRouter([
         locate="/e1f56984-6a08-4eec-bd34-6e56d9259e63"
       />
     ),
+  },
+  {
+    path: "/a4691740-3a93-421d-9bf7-3600ee7fe942",
+    element: (
+      <LinkedPage title="Hotline (edit)" name="Billie Eilish" 
+        img="https://i.scdn.co/image/ab67616d00001e02c820a9669147be3addd7f221"
+        colorBg="#8e6540"
+        colorText="#412e1d"
+        locate="/a4691740-3a93-421d-9bf7-3600ee7fe942"
+      />
+    )
+  },
+  {
+    path: "/35b3cda7-763d-4d6e-ad0f-bbe45b0e7e9a",
+    element: (
+      <LinkedPage title="If We Have Eac..." name="Alec Benjamin" 
+        img="https://i.scdn.co/image/ab67616d00001e02c1ffc76b7ec3e981ffb84327"
+        colorBg="#ffc089"
+        colorText="#7d5d42"
+        locate="/35b3cda7-763d-4d6e-ad0f-bbe45b0e7e9a"
+      />
+    )
   }
 ]);
 
