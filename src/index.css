@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#components-retubles::-webkit-scrollbar {
+    width: 0;
+}
+body::-webkit-scrollbar {
+    width: 4px;
+}
